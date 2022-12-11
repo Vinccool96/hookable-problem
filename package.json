@@ -1,0 +1,16 @@
+{
+  "name": "hookable-problem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "hookable": "^5.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.13",
+    "typescript": "^4.9.4"
+  }
+}
